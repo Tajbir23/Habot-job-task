@@ -8,7 +8,7 @@ const Dive = () => {
         <p className="text-gray-700 mb-6">
           Signing up with HABOT opens the door to a world of new opportunities and potential for business growth. Gain access to a vibrant community of like-minded individuals, unlock valuable resources, and take the first step towards realizing your entrepreneurial dreams.
         </p>
-        <button className="bg-[#00732F] text-white py-2 px-4 rounded hover:bg-green-700 transition flex items-center gap-2">
+        <button className="bg-[#00732F] m-auto md:m-0 text-white py-2 px-4 rounded hover:bg-green-700 transition flex items-center gap-2">
           <span>Sign up Today !</span> <FaArrowRightLong className="ml-2" />
         </button>
       </div>
